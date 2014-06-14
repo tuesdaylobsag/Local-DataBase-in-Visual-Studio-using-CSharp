@@ -1,0 +1,11 @@
+c:\users\ricardo\documents\visual studio 2013\Projects\FriendsDatabase\FriendsDatabase\bin\Debug\FriendsDatabase.exe.config
+c:\users\ricardo\documents\visual studio 2013\Projects\FriendsDatabase\FriendsDatabase\bin\Debug\Friends_Database.mdf
+c:\users\ricardo\documents\visual studio 2013\Projects\FriendsDatabase\FriendsDatabase\bin\Debug\Friends_Database_log.ldf
+c:\users\ricardo\documents\visual studio 2013\Projects\FriendsDatabase\FriendsDatabase\bin\Debug\FriendsDatabase.exe
+c:\users\ricardo\documents\visual studio 2013\Projects\FriendsDatabase\FriendsDatabase\bin\Debug\FriendsDatabase.pdb
+c:\users\ricardo\documents\visual studio 2013\Projects\FriendsDatabase\FriendsDatabase\obj\Debug\FriendsDatabase.Form1.resources
+c:\users\ricardo\documents\visual studio 2013\Projects\FriendsDatabase\FriendsDatabase\obj\Debug\FriendsDatabase.Properties.Resources.resources
+c:\users\ricardo\documents\visual studio 2013\Projects\FriendsDatabase\FriendsDatabase\obj\Debug\FriendsDatabase.csproj.GenerateResource.Cache
+c:\users\ricardo\documents\visual studio 2013\Projects\FriendsDatabase\FriendsDatabase\obj\Debug\FriendsDatabase.exe
+c:\users\ricardo\documents\visual studio 2013\Projects\FriendsDatabase\FriendsDatabase\obj\Debug\FriendsDatabase.pdb
+C:\Users\ricardo\Documents\Visual Studio 2013\Projects\FriendsDatabase\FriendsDatabase\obj\Debug\FriendsDatabase.csprojResolveAssemblyReference.cache
